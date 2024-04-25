@@ -5,6 +5,7 @@ Introduction
 Embark on a journey into the world of containerization as we delve into the deployment of a robust MERN stack application using Docker and Docker Compose. In this repo, we will explore two distinct approaches — Dockerfile and Docker-Compose — each bringing its own set of advantages to the deployment process.
 
 Follow the Blog- [Three-Tier Application Deployment using Docker Compose](https://medium.com/@prashantphad2018/deploy-mern-stack-application-using-docker-docker-compose-6058a541e9b4)
+
 GitHub Repository (Dockerfile Implementation)-Dockerfile-Project
 
 GitHub Repository (Docker-Compose Implementation)-DockerCompose-Project
