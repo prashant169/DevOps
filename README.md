@@ -2,7 +2,7 @@
 ![1_KLCUiHDFzvySzGAfua9PIA](https://github.com/prashant169/DevOps/assets/78464585/99e978a9-1013-4812-8030-cba2d9814642)
 
 Introduction
-Embark on a journey into the world of containerization as we delve into the deployment of a robust MERN stack application using Docker and Docker Compose. In this blog post, we will explore two distinct approaches — Dockerfile and Docker-Compose — each bringing its own set of advantages to the deployment process.
+Embark on a journey into the world of containerization as we delve into the deployment of a robust MERN stack application using Docker and Docker Compose. In this repo, we will explore two distinct approaches — Dockerfile and Docker-Compose — each bringing its own set of advantages to the deployment process.
 
 GitHub Repository (Dockerfile Implementation)-Dockerfile-Project
 
